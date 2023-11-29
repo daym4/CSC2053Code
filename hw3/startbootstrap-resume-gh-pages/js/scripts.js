@@ -6,6 +6,7 @@
 //
 // Scripts
 // 
+//This is from HW 3
 
 window.addEventListener('DOMContentLoaded', event => {
 
